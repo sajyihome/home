@@ -1,2 +1,2 @@
 # home
-this is just a fool around project. may get serious as I learn more
+this is just a test  project. may get serious as I learn more
